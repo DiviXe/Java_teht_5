@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+table {
+  border-collapse: collapse;  
+  width: 35%;
+}
+
+table td, table th {
+  border: 1px solid #ddd;
+  padding: 6px;  
+}
+
+
+table th {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: left;
+  background-color: #808080;
+  color: white;
+}
+
+
+
+
+
